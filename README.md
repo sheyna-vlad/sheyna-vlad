@@ -1,4 +1,4 @@
-# Hi, my name is **Vlad Sheyna**!
+# Hi, my name is **Vlad Sheina**!
 ## I'm a frontend developer from Belarus, Minsk. I have experience in creating Landing Pages and SPA.
 ## I'm keen on solving katas on 👩‍💻 [codewars](https://www.codewars.com/users/sheyna.bsuir) and watching IT-conferences.
 
